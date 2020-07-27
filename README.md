@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>和平精英模拟版</title>
+    和平精英模拟版
 </head>
 <body>
 <p style="background-color:black;color:white;font-weight:bold;font-size:40px">
