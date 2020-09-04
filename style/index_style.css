@@ -1,0 +1,35 @@
+#head_band{
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  margin: 0px;
+}
+ul{
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+}
+li{
+float:left;
+}
+#navigate_events{
+width:20px;
+height:2px;
+background-color:black;
+padding:25px;
+text-decoration:none;
+color: white;
+display: ruby-base;
+padding:20px;
+margin:0px
+}
+#navigate_download{
+width:60px;
+background-color:#dddddd;
+}
+#navigate_center{
+width:60px;
+background-color:#dddddd;
+}
